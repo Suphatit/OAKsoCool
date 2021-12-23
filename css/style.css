@@ -1,0 +1,23 @@
+body {
+    background-color: #e0ebe8;
+    color: #545454;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+h1 {
+    color: #3cdbb6;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+
+p {
+    color: #3cdbb6;
+}
+
+.cls {
+    background-color: green;
+    margin-left: 0px;
+    margin-top: 0px;
+}
